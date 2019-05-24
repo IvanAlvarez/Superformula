@@ -16,5 +16,7 @@ s = SuperformulaRandomize(Num, M, N, A, Grain);
   
 
 ### About
+Superformula equation described in Gielis, J. (2003). A generic geometric transformation that unifies a  wide range of natural and abstract shapes. American Journal of Botany, 90(3), pp.333-338.
+
 Ivan Alvarez  
-University of Oxford  
+FMRIB, University of Oxford  
