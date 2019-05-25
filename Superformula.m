@@ -54,7 +54,7 @@ if nargin < 3
     a = [1, 1];    
 end
 if nargin < 4
-    grain = 600;
+    grain = 100;
 end
 
 %% Generate
