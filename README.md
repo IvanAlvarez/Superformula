@@ -5,7 +5,7 @@ Generates 3D superellipses and visualises them in MATLAB.
 Add the scripts in this repository to your MATLAB path. 
 
 ### How to
-To use the graphic interface, simply run:
+To use the graphic interface, simply run:  
 SuperformulaGui
 
 To generate a single superformula solid with specific parameters, use  
