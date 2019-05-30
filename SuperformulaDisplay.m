@@ -3,7 +3,7 @@ function SuperformulaDisplay(s)
 %
 % Input:
 %   s       [cellar] Cell array, containing one exemplar per cell. Each
-%               cell is a structure containing the following fields;
+%               cell is a structure containing the following fields:
 %                   <>.m
 %                   <>.n
 %                   <>.a
